@@ -41,16 +41,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "(ssr)/./node_modules/lucide-react/dist/esm/icons/calendar.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/lucide-react/dist/esm/icons/calendar.js ***!
-  \**************************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Calendar)\n/* harmony export */ });\n/* harmony import */ var _createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../createLucideIcon.js */ \"(ssr)/./node_modules/lucide-react/dist/esm/createLucideIcon.js\");\n/**\n * @license lucide-react v0.446.0 - ISC\n *\n * This source code is licensed under the ISC license.\n * See the LICENSE file in the root directory of this source tree.\n */\n\n\n\nconst Calendar = (0,_createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(\"Calendar\", [\n  [\"path\", { d: \"M8 2v4\", key: \"1cmpym\" }],\n  [\"path\", { d: \"M16 2v4\", key: \"4m81vk\" }],\n  [\"rect\", { width: \"18\", height: \"18\", x: \"3\", y: \"4\", rx: \"2\", key: \"1hopcy\" }],\n  [\"path\", { d: \"M3 10h18\", key: \"8toen8\" }]\n]);\n\n\n//# sourceMappingURL=calendar.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbHVjaWRlLXJlYWN0L2Rpc3QvZXNtL2ljb25zL2NhbGVuZGFyLmpzIiwibWFwcGluZ3MiOiI7Ozs7O0FBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBOztBQUVzRDs7QUFFdEQsaUJBQWlCLGdFQUFnQjtBQUNqQyxhQUFhLDRCQUE0QjtBQUN6QyxhQUFhLDZCQUE2QjtBQUMxQyxhQUFhLG1FQUFtRTtBQUNoRixhQUFhLDhCQUE4QjtBQUMzQzs7QUFFK0I7QUFDL0IiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9uZXh0anMvLi9ub2RlX21vZHVsZXMvbHVjaWRlLXJlYWN0L2Rpc3QvZXNtL2ljb25zL2NhbGVuZGFyLmpzPzg4N2UiXSwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBAbGljZW5zZSBsdWNpZGUtcmVhY3QgdjAuNDQ2LjAgLSBJU0NcbiAqXG4gKiBUaGlzIHNvdXJjZSBjb2RlIGlzIGxpY2Vuc2VkIHVuZGVyIHRoZSBJU0MgbGljZW5zZS5cbiAqIFNlZSB0aGUgTElDRU5TRSBmaWxlIGluIHRoZSByb290IGRpcmVjdG9yeSBvZiB0aGlzIHNvdXJjZSB0cmVlLlxuICovXG5cbmltcG9ydCBjcmVhdGVMdWNpZGVJY29uIGZyb20gJy4uL2NyZWF0ZUx1Y2lkZUljb24uanMnO1xuXG5jb25zdCBDYWxlbmRhciA9IGNyZWF0ZUx1Y2lkZUljb24oXCJDYWxlbmRhclwiLCBbXG4gIFtcInBhdGhcIiwgeyBkOiBcIk04IDJ2NFwiLCBrZXk6IFwiMWNtcHltXCIgfV0sXG4gIFtcInBhdGhcIiwgeyBkOiBcIk0xNiAydjRcIiwga2V5OiBcIjRtODF2a1wiIH1dLFxuICBbXCJyZWN0XCIsIHsgd2lkdGg6IFwiMThcIiwgaGVpZ2h0OiBcIjE4XCIsIHg6IFwiM1wiLCB5OiBcIjRcIiwgcng6IFwiMlwiLCBrZXk6IFwiMWhvcGN5XCIgfV0sXG4gIFtcInBhdGhcIiwgeyBkOiBcIk0zIDEwaDE4XCIsIGtleTogXCI4dG9lbjhcIiB9XVxuXSk7XG5cbmV4cG9ydCB7IENhbGVuZGFyIGFzIGRlZmF1bHQgfTtcbi8vIyBzb3VyY2VNYXBwaW5nVVJMPWNhbGVuZGFyLmpzLm1hcFxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/lucide-react/dist/esm/icons/calendar.js\n");
-
-/***/ }),
-
 /***/ "(ssr)/./node_modules/lucide-react/dist/esm/icons/clock.js":
 /*!***********************************************************!*\
   !*** ./node_modules/lucide-react/dist/esm/icons/clock.js ***!
